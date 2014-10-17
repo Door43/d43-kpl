@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kpl:home|Door43 (kpl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kpl|d43-kpl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kpl/archive/master.zip|d43-kpl.zip]]
+
+**Recent Changes**
+{{changes>ns = kpl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kpl|Ethnologue data]]
+
